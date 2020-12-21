@@ -1,0 +1,17 @@
+global:
+  country: America
+  greeting: welcome to America!!
+  detail: An explanation will be included. An explanation will be included.
+  thankGreeting: thank you! 
+
+product:
+  title: hoth
+  detail: change the world
+
+test:
+  title: TEST!
+  detail: test.test.test.test.test.
+
+about:
+  title: ABOUT page
+  detail: about about about about about

@@ -1,0 +1,18 @@
+global:
+  country: Japan
+  greeting: ようこそ、日本へ！
+  detail: 説明文が入ります。説明文が入ります。
+  thankGreeting: ありがとう！
+
+product:
+  title: ホス
+  detail: 世界を変える
+
+test:
+  title: テスト！
+  detail: テストだよ。テストだよ。テストだよ。
+
+about:
+  title: アバウトページです
+  detail: アバウトだよ。アバウトだよ。アバウトだよ。
+
