@@ -5,8 +5,8 @@ global:
   thankGreeting: thank you! 
 
 product:
-  title: hoth
-  detail: change the world
+  title: product
+  detail: product page. product page. product page.
 
 test:
   title: TEST!

@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Welcome to metroly!!
+title: metroly
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -38,6 +38,9 @@ plugins:
 languages: ['ja', 'en']
 exclude_from_localizations: ["images", "css"]
 
+include:
+  - _sass
+  - _pages
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
